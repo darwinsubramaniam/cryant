@@ -1,0 +1,3 @@
+[workspace]
+members = ["cryant-api", "cryant-lib"]
+resolver = "2"
